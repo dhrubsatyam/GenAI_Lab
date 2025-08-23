@@ -1,4 +1,5 @@
 python-dotenv
+faiss-cpu
 jupyterlab
 ipywidgets
 requests
